@@ -1,4 +1,6 @@
-Hi, I’m @TheLavenderJack
+#Hi There!
+
+My name is Jack Haddad, aka @TheLavenderJack
 I’m interested in creating computer games and composing music.
 I’m currently studying at the University of Virgina, double majoring in Computer Science and Music.
 How to reach me: rfa4px@gmail.com
